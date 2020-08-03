@@ -1,0 +1,11 @@
+<resources>
+    // common
+    <string name="app_name">WaysunLauncherExploration</string>
+
+    // app list
+    <string name="downloaded_apps_list_title">Your apps</string>
+    <string name="not_downloaded_apps_list_title">Other apps</string>
+
+    // app item
+    <string name="content_description_app_icon">Icon for the listed app</string>
+</resources>

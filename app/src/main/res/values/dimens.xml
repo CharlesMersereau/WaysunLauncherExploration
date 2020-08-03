@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appList_icon_height">120dp</dimen>
+    <dimen name="appList_icon_width">180dp</dimen>
+    <dimen name="fullscreen_container_padding">16dp</dimen>
+</resources>
